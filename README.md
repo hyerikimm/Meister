@@ -1,6 +1,7 @@
-# MeisterProject
-크몽 과 숨고 사이트를 참고하여 만든 홈페이지!<br>
-<img src="https://user-images.githubusercontent.com/92138800/207755353-c7b6ad32-55aa-4967-8cd8-f02b9d666333.png" width="300"/>
+# Meister
+
+<img src="https://user-images.githubusercontent.com/92138800/207755353-c7b6ad32-55aa-4967-8cd8-f02b9d666333.png" width="200"/>
+'크몽'과 '숨고' 사이트를 참고하여 만든 재능판매 홈페이지<br>
 <br><br>
 
 ## :dizzy: 프로젝트 기간 
@@ -10,26 +11,32 @@
 ## :question: 프로젝트 기획의도 
 - N잡러, 부캐 시대에 맞춘 또 다른 수익 창출을 위한 나의 재능 판매
 - 코로나로 인해 자연스럽게 자리잡은 온라인과 오프라인으로 받는 코칭
-- 본인익 가진 재능으로 인한 리스크없이 도전 가능
+- 본인이 가진 재능으로 인한 리스크없이 판매 가능
 <br><br>
 
 ## :waxing_crescent_moon: 멤버소개
-> <b>팀장 : 정승필 : 모든페이지 </b><br>
-> 팀원1 : 양진호 : 재능판매게시글 상세보기, 등록하기, 결제API<br>
-> 팀원2 : 김혜리 : 재능판매페이지, 검색, 디자인<br>
+> 팀장 : 정승필 : 모든 페이지 <br>
+> 팀원1 : 양진호 : 재능판매 게시글 상세보기, 등록하기, 결제API<br>
+> 팀원2 : 김혜리 : 재능판매 페이지, 검색하기 기능, 디자인<br>
 > 팀원3 : 이이수 : 커뮤니티<br>
 > 팀원4 : 유홍상 : 커뮤니티<br>
 > 팀원5 : 한대웅 : 마이페이지, 채팅, 리뷰
 <br>
 
 ## :first_quarter_moon: 개발환경
-- HTML5 & CSS3
-- JavaScript
-- ajax
-- jQuery
-- OracleDB
-- Eclipse (java11)
-- tomcat9
+<div align=left>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?flat-square&logo=JavaScript&logoColor=black">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=black">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=black">
+      <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=Apache Tomcat&logoColor=black">
+      <br>
+      <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+</div>
 <br>
 
 ## :waxing_gibbous_moon: 코드리뷰
